@@ -1,0 +1,7 @@
+git-bash notas
+git config --global user.name ¨juanpedro¨
+primer acto
+segundo acto
+tercer acto
+cuarto acto
+quinto acto
