@@ -1,7 +1,15 @@
 git-bash notas
 git config --global user.name ¨juanpedro¨
-primer acto
+primer acto: jimenez y la cajacha, chino  y tu flaca
 segundo acto
 tercer acto
 cuarto acto
 quinto acto
+sexto acto 
+
+
+git remote add origin https://github.com/elpapirafa/elchino.git
+git push -u origin master
+hjbjhgjhb
+
+aesdfsdg
